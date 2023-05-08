@@ -1,0 +1,1 @@
+This repository includes the basic C programs that I solved while learning C programming.
