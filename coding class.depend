@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205420 source:d:\new folder\learn c\coding class\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640922721 source:d:\new folder\learn c\coding class\sum2.c
+	<stdio.h>
+	<stdlib.h>
+
+1640924062 source:d:\new folder\learn c\coding class\average.c
+	<stdio.h>
+	<stdlib.h>
+
+1640922721 source:d:\c programes\learn c\coding class\sum2.c
+	<stdio.h>
+	<stdlib.h>
+
